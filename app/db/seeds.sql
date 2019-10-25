@@ -11,6 +11,7 @@ VALUES
 ("Mike", "link"),
 ("Mike", "link"),
 ("Mike", "link"),
+("Mike", "link"),
 ("Mike", "link");
 
 INSERT INTO scores (friend_id, question_id, score) 
