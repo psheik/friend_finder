@@ -8,11 +8,11 @@ VALUES
 ("Louis T. Delia", "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg"),
 ("Lou Ritter", "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460"),
 ("Jordan Biason", "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg"),
-("Mike", "link"),
-("Mike", "link"),
-("Mike", "link"),
-("Mike", "link"),
-("Mike", "link");
+("Jalin", "no"),
+("Tommy Vinyard", "jajhsdahhf.com/image"),
+("sstorysmith", "http:/linkedin/face.jpg"),
+("test", "fsdl"),
+("Stich Jones", "/c/picture.jpg");
 
 INSERT INTO scores (friend_id, question_id, score) 
 VALUES 
